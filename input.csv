@@ -1,0 +1,18 @@
+Start_Stop,1,,"1:Start, 0:Stop"
+Qty_1m_trade,2,,Limit of Quantity for 1 m Trade.
+Qty_Intraday,5,,Limit of Quantity for Intraday.
+Equity_Multiplier,0.2,,Equity Balance Allocation. Balance*Equity_Multiplier
+Option_Multiplier,0.8,,Option Balance Allocation.Balance*Option_Multiplier
+Margin,3.5,,Margin to be used as Multiplier eg 6x
+1m_trade,1,,"1m Trade: 1-Yes,0-No"
+Intraday,1,,"Intraday: 1-Yes,0-No"
+1m_Equity,1,,"Equity in 1m Trade: 1-Yes,0-No"
+1m_Option,0,,"Option in 1m Trade: 1-Yes,0-No"
+Intraday_Equity,1,,"Equity in Intraday: 1-Yes,0-No"
+Intraday_Option,0,,"Option in Intraday: 1-Yes,0-No"
+Strike,0.3,,Limit Price to Buy/Sell Share
+Target,0.5,,Target
+Stoploss,0.1,,Stoploss
+Stoploss_1m,0.1,,Stoploss for 1m
+Trailing_SL,0.2,,Trailing_SL for Intraday
+Re_enter,0.8,,Re-enter Trade with Trailing 
